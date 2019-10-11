@@ -1,0 +1,10 @@
+{
+    "project_name": "spikeforest_widgets",
+    "version": "0.1.0",
+    "description": "Widgets for visualizing a SpikeForest analysis",
+    "author": "Jeremy Magland",
+    "license": "Apache-2.0",
+    "setup_py": {
+        "install_requires": []
+    }
+}
